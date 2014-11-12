@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'SampleFont';
+  src: url('sample_font.eot');
+  src: url('sample_font.eot?#iefix') format('embedded-opentype'),
+    url('sample_font.woff') format('woff'),
+    url('sample_font.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
